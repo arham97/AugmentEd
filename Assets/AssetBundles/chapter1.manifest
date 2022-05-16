@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3295184214
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db874717975fac96afd88c23ca0f211d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 72857b2a933d07858404751834744c64
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd882450e6a77414a83332e53a381a4a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Chapter1 Asset bundle prefabs/4.prefab
+- Assets/Prefabs/Chapter1 Asset bundle prefabs/9.prefab
+- Assets/Prefabs/Chapter1 Asset bundle prefabs/6.prefab
+- Assets/Prefabs/Chapter1 Asset bundle prefabs/5.prefab
+- Assets/Prefabs/Chapter1 Asset bundle prefabs/10.prefab
+- Assets/Prefabs/Chapter1 Asset bundle prefabs/7.prefab
+- Assets/Prefabs/Chapter1 Asset bundle prefabs/1.prefab
+- Assets/Prefabs/Chapter1 Asset bundle prefabs/3.prefab
+- Assets/Prefabs/Chapter1 Asset bundle prefabs/8.prefab
+- Assets/Prefabs/Chapter1 Asset bundle prefabs/2.prefab
+Dependencies: []

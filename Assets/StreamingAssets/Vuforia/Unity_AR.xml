@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="chap11" size="1.000000 1.000000" />
+    <ImageTarget name="chap10" size="1.000000 1.000000" />
+    <ImageTarget name="chap9" size="1.000000 1.000000" />
+    <ImageTarget name="chap8" size="1.000000 1.000000" />
+    <ImageTarget name="chap7" size="1.000000 1.000000" />
+    <ImageTarget name="chap6" size="1.000000 1.000000" />
+    <ImageTarget name="chap5" size="1.000000 1.000000" />
+    <ImageTarget name="chap4" size="1.000000 1.000000" />
+    <ImageTarget name="chap3" size="1.000000 1.000000" />
+    <ImageTarget name="chap2" size="1.000000 1.000000" />
+    <ImageTarget name="chap1" size="1.000000 1.000000" />
+    <ImageTarget name="TestTarget" size="1.000000 1.053521" />
+  </Tracking>
+</QCARConfig>
